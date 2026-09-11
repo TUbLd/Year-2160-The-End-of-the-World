@@ -30,7 +30,7 @@ In human life, nothing is random, trivial, arbitrary, or even sudden; events are
 
 This short book is intended to form part of a series devoted to several related subjects. 
 
-These subjects are related because everything is connected and nothing is the product of chance. As a sage of antiquity asserted, “all is mind.”
+These subjects are related because everything is connected and nothing is the product of chance. As a sage of antiquity asserted, **all is mind**.
 
 Thought, like everything else in this world, obeys laws—the laws of love—which are the same for everything that exists. 
 
